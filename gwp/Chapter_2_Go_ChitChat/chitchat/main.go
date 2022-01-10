@@ -46,3 +46,11 @@ func main() {
 	}
 	server.ListenAndServe()
 }
+
+
+/*
+1. go env -w GO111MODULE=off
+2. go get github.com/sausheong/gwp/Chapter_2_Go_ChitChat/chitchat/data
+3. C:\Users\User\go\src\github.com\sausheong\gwp
+
+*/
